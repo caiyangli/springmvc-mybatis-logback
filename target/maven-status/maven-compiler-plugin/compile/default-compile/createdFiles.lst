@@ -1,0 +1,8 @@
+com\mgxz\service\Demo.class
+com\mgxz\controller\Controller2.class
+com\mgxz\service\UserService.class
+com\mgxz\service\UserServiceImpl.class
+com\mgxz\controller\BaseController.class
+com\mgxz\controller\MyController.class
+com\mgxz\po\UserPO.class
+com\mgxz\dao\UserDao.class
